@@ -1,6 +1,6 @@
 ## vivado_10bit_CSA
-## REG NUM :
-## NAME :
+## REG NUM :25011767
+## NAME :Khotla Gagan Prathyush
 ## EXPERIMENT – 5  10-BIT CARRY SELECT ADDER (CSA)
 ##  TITLE
 Implementation of a 10-bit Carry Select Adder (CSA) on Spartan-7 Boolean Board using Vivado
@@ -159,6 +159,7 @@ set_property -dict { PACKAGE_PIN G2 IOSTANDARD LVCMOS33 } [get_ports {LED[1]}]
 set_property -dict { PACKAGE_PIN E6 IOSTANDARD LVCMOS33 } [get_ports {LEDC}]
 ```
 ## OUTPUT
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/938108ff-4564-4a0e-ae2c-15ab2250fb46" />
 
 ## RESULT
 The 10-bit Carry Select Adder was successfully designed, simulated, synthesized, and implemented on the Spartan-7 Boolean board.
